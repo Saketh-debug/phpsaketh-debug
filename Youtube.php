@@ -110,19 +110,19 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a class="nav-link" href="projects">Projects</a>
+          <a class="nav-link" href="projects.php">Projects</a>
         </li>
         <li class="nav-item active">
           <a class="nav-link" href="#">Youtube<span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="Game">Saketh's Box Run</a>
+          <a class="nav-link" href="Game.php">Saketh's Box Run</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="Game2">Saketh's Ghost Run</a>
+          <a class="nav-link" href="Game2.php">Saketh's Ghost Run</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="contacts">Contact Us</a>
+          <a class="nav-link" href="contacts.php">Contact Us</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="dd">About Us</a>

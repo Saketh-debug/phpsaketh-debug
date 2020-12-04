@@ -78,16 +78,16 @@
               <a class="nav-link" href="#">Projects<span class="sr-only">(current)</span></a>
             </li>          
             <li class="nav-item">
-              <a class="nav-link" href="Youtube">Youtube</a>
+              <a class="nav-link" href="Youtube.php">Youtube</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="Game">Saketh's Box Run</a>
+              <a class="nav-link" href="Game.php">Saketh's Box Run</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="Game2">Saketh's Ghost Run</a>
+              <a class="nav-link" href="Game2.php">Saketh's Ghost Run</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link " href="contacts" tabindex="-1" aria-disabled="true">Contact Us</a>
+              <a class="nav-link " href="contacts.php" tabindex="-1" aria-disabled="true">Contact Us</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="about">About Us</a>

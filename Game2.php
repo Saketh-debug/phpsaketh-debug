@@ -32,19 +32,19 @@
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item ">
-            <a class="nav-link" href="projects">Projects <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="projects.php">Projects <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="Youtube">Youtube</a>
+            <a class="nav-link" href="Youtube.php">Youtube</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="Game">Saketh's Box Run</a>
+            <a class="nav-link" href="Game.php">Saketh's Box Run</a>
           </li>
           <li class="nav-item active">
             <a class="nav-link" href="#">Saketh's Ghost Run</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contacts" tabindex="-1" aria-disabled="true">Contact Us </a>
+            <a class="nav-link" href="contacts.php" tabindex="-1" aria-disabled="true">Contact Us </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="about">About Us</a>

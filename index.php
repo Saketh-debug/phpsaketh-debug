@@ -68,25 +68,25 @@
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav mr-auto">
               <li class="nav-item ">
-                <a class="nav-link" href="projects">Projects <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="projects.php">Projects <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="Youtube">YouTube</a>
+                <a class="nav-link" href="Youtube.php">YouTube</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="Game">Saketh's Box Run</a>
+                <a class="nav-link" href="Game.php">Saketh's Box Run</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="Game2">Saketh's Ghost Run</a>
+                <a class="nav-link" href="Game2.php">Saketh's Ghost Run</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contacts" tabindex="-1" aria-disabled="true">Contact Us</a>
+                <a class="nav-link" href="contacts.php" tabindex="-1" aria-disabled="true">Contact Us</a>
               </li>
               <!-- <li class="nav-item">
                 <a class="nav-link" href="about">About Us</a>
               </li> -->
               <li class="nav-item">
-                <a class="nav-link" href="dd">Art of CSS</a>
+                <a class="nav-link" href="dd.php">Art of CSS</a>
               </li>
             </ul>
           </div>

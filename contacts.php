@@ -41,16 +41,16 @@ body{
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="projects">Projects</a>
+          <a class="nav-link" href="projects.php">Projects</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="Youtube">Youtube</a>
+          <a class="nav-link" href="Youtube.php">Youtube</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="Game">Saketh's Box Run</a>
+          <a class="nav-link" href="Game.php">Saketh's Box Run</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="Game2">Saketh's Ghost Run</a>
+          <a class="nav-link" href="Game2.php">Saketh's Ghost Run</a>
         </li>
         <li class="nav-item active">
           <a class="nav-link" href="#">Contact Us <span class="sr-only">(current)</span></a>
