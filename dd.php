@@ -53,16 +53,16 @@
 		<div class="w-full flex-grow lg:flex lg:items-center lg:w-auto hidden lg:block mt-2 lg:mt-0 bg-white lg:bg-transparent text-black p-4 lg:p-0 z-20" id="nav-content">
 			<ul class="list-reset lg:flex justify-end flex-1 items-center">
 				<li class="mr-3">
-					<a class="inline-block py-2 px-4 text-black font-bold no-underline" href="#">Projects</a>
+					<a class="inline-block py-2 px-4 text-black font-bold no-underline" href="projects.php">Projects</a>
 				</li>
 				<li class="mr-3">
-					<a class="inline-block text-black no-underline hover:text-gray-800 hover:text-underline py-2 px-4" href="#">Youtube</a>
+					<a class="inline-block text-black no-underline hover:text-gray-800 hover:text-underline py-2 px-4" href="Youtube.php">Youtube</a>
 				</li>
 				<li class="mr-3">
-					<a class="inline-block text-black no-underline hover:text-gray-800 hover:text-underline py-2 px-4" href="#">Contact us</a>
+					<a class="inline-block text-black no-underline hover:text-gray-800 hover:text-underline py-2 px-4" href="contacts.php">Contact us</a>
 				</li>
 			</ul>
-			<a href="index.html" id="navAction" class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full mt-4 lg:mt-0 py-4 px-8 shadow opacity-75">Go back to Original</a>
+			<a href="index.php" id="navAction" class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full mt-4 lg:mt-0 py-4 px-8 shadow opacity-75">Go back to Original</a>
 		</div>
 	</div>
 	
@@ -80,7 +80,7 @@
 		<div class="flex flex-col w-full md:w-2/5 justify-center items-start text-center md:text-left">
 			
 			<h1 class="my-4 text-5xl font-bold leading-tight">Zentech</h1>
-			<p class="leading-normal text-2xl mb-8">Amazing, revolutionary and unprecedented, as always<i>(This is the same home page but with different CSS and Framework)</i></p>
+			<p class="leading-normal text-2xl mb-8">Amazing, revolutionary and unprecedented, as always<br><i>(This is the home page, but with different CSS, HTML and PHP framework.)</i></p>
 
 			
 

@@ -124,11 +124,11 @@
         <li class="nav-item">
           <a class="nav-link" href="contacts.php">Contact Us</a>
         </li>
+        <!--<li class="nav-item">
+          <a class="nav-link" href="about.php">About Us</a>
+        </li>-->
         <li class="nav-item">
-          <a class="nav-link" href="dd">About Us</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="dd">Art of CSS</a>
+          <a class="nav-link" href="dd.php">Art of CSS</a>
         </li>
       </ul>
     </div>
