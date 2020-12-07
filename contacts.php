@@ -55,11 +55,11 @@ body{
         <li class="nav-item active">
           <a class="nav-link" href="#">Contact Us <span class="sr-only">(current)</span></a>
         </li>
+        <!--<li class="nav-item">
+          <a class="nav-link" href="about.php">About Us</a>
+        </li>-->
         <li class="nav-item">
-          <a class="nav-link" href="about">About Us</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="dd">Art of CSS</a>
+          <a class="nav-link" href="dd.php">Art of CSS</a>
         </li>
       </ul>
     </div>

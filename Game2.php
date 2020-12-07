@@ -46,11 +46,11 @@
           <li class="nav-item">
             <a class="nav-link" href="contacts.php" tabindex="-1" aria-disabled="true">Contact Us </a>
           </li>
+          <!--<li class="nav-item">
+            <a class="nav-link" href="about.php">About Us</a>
+          </li>-->
           <li class="nav-item">
-            <a class="nav-link" href="about">About Us</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="dd">Art of CSS</a>
+            <a class="nav-link" href="dd.php">Art of CSS</a>
           </li>
         </ul>
       </div>
