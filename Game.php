@@ -4,6 +4,10 @@
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Saketh's Box Run | Zentech</title>
+    <head profile="http://www.w3.org/2005/10/profile">
+      <link rel="icon" 
+            type="image/png" 
+            href="Images/Zentech Logo.png" />
     <link rel="stylesheet" href="TemplateData/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
     <script src="TemplateData/UnityProgress.js"></script>
