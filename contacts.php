@@ -86,7 +86,7 @@ body{
         </button>
         
         <div class="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-          <p>Or else, mail to: <a class="text-indigo-500" id="mail" href = ""></a></p>
+          <p>Or else, mail to: <a class="text-indigo-500" id="mail" href = "mailto:zentechcorporation@gmail.com">zentechcorporation@gmail.com</a></p>
           <p class="leading-normal my-5">Zentech
             <br> Amazing, revolutionary and unprecedented, as always
           </p>
@@ -132,7 +132,7 @@ body{
         </button>
       </div>
       <div class="modal-body">
-        Message sent. However, if you want a faster response, you can send an email to <a href = ""></a>.
+        Message sent. However, if you want a faster response, you can send an email to <a href = "mailto:zentechcorporation@gmail.com">zentechcorporation@gmail.com</a>.
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>       
