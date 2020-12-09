@@ -188,9 +188,9 @@
                 <!--<p><a class="btn btn-secondary" href="about.php" role="button">About Us</a></p>-->
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
-                <img src="Images/Lohith's Picture (temporary).jpg" class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140">
-                <h2>Lohith</h2>
-                <p>Lohith is a co-founder, the COO and a director of <strong>Zentech</strong> along with Hrutvik and Saketh.</p>
+                <img src="Images/Ritvik's Picture.HEIC" class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140">
+                <h2>Ritvik</h2>
+                <p>Ritvik is a co-founder, the COO and a director of <strong>Zentech</strong> along with Hrutvik and Saketh.</p>
               </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
       
