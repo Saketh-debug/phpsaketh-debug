@@ -1,6 +1,6 @@
 Repository owned by: Saketh-debug
 
-Collaborators: Hrutvik-Palutla, Lohith-cmd
+Collaborators: Hrutvik-Palutla
 
 The website of Zentech.
 
