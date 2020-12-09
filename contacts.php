@@ -86,7 +86,7 @@ body{
         </button>
         
         <div class="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-          <p>Or else, mail to: <a class="text-indigo-500" id="mail" href = "mailto:zentechcorporation@gmail.com">zentechcorporation@gmail.com</a></p>
+          <p>Or else, mail to: <a id="mail" href = "mailto:zentechcorporation@gmail.com">zentechcorporation@gmail.com</a></p>
           <p class="leading-normal my-5">Zentech
             <br> Amazing, revolutionary and unprecedented, as always
           </p>
