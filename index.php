@@ -179,12 +179,12 @@
               <div class="col-lg-4">
                 <img src="Images/Saketh's Picture.jpg" class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140">
                 <h2>Saketh</h2>
-                <p>Saketh is a co-founder, the CEO  and a director of <strong>Zentech</strong> along with Hrutvik and Lohith. </p>
+                <p>Saketh is a co-founder, the CEO  and a director of <strong>Zentech</strong> along with Hrutvik and Ritvik. </p>
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
                 <img src="Images/Hrutvik's Picture.PNG" class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140">
                 <h2>Hrutvik</h2>
-                <p>Hrutvik is a co-founder, the CFO, head of PR and a director of <strong>Zentech</strong> along with Saketh and Lohith.</p>
+                <p>Hrutvik is a co-founder, the CFO, head of PR and a director of <strong>Zentech</strong> along with Saketh and Ritvik.</p>
                 <!--<p><a class="btn btn-secondary" href="about.php" role="button">About Us</a></p>-->
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
