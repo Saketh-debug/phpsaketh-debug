@@ -100,7 +100,7 @@
                     <p>Saketh is one of the co-founders of Zentech, and its CEO.</p>
                     <p>
                       Today, the 13th of December, 2020, we celebrate Saketh's 14<sup>th</sup> birthday.
-                      <p>
+                      <p style = "font-style: italic;">
                       I would like to thank Saketh for all that he as contributed and given to our company: 
                       the creation and editing of the website, and also for his fun and amazing games.
                       Many many happy returns of the day, and hope you have a good year ahead! Happy birthday, Saketh.
