@@ -112,7 +112,7 @@
               </div>
             </div>
           <div class="carousel-inner">
-            <div class="carousel-item active">
+            <div class="carousel-item">
               <img src="Images/ezgif.com-gif-maker.gif" class="d-block w-100" alt="...">
               <div class="container">
                 <div class="carousel-caption">
