@@ -101,7 +101,8 @@
             <li data-target="#myCarousel" data-slide-to="1"></li>
             <li data-target="#myCarousel" data-slide-to="2"></li>
           </ol>
-          <div class="carousel-item active">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
               <img src="Images/Ghost Run Pic.jpg" class="d-block w-100" alt="...">
               <div class="container">
                 <div class="carousel-caption">
@@ -110,7 +111,6 @@
                 </div>
               </div>
             </div>
-          <div class="carousel-inner">
             <div class="carousel-item">
               <img src="Images/ezgif.com-gif-maker.gif" class="d-block w-100" alt="...">
               <div class="container">
@@ -120,7 +120,7 @@
                 </div>
               </div>
             </div>
-            <div class="carousel-">
+            <div class="carousel-item">
               <img src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjE3MzYxfQ&auto=format&fit=crop&w=750&q=80" class="d-block w-100" alt="...">
               <div class="container">
                 <div class="carousel-caption text-right">
