@@ -103,11 +103,11 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="Images/render result.png" class="d-block w-100" alt="...">
+              <img src="Images/Saketh's Birthday Pic.jpg" class="d-block w-100" alt="...">
               <div class="container">
                 <div class="carousel-caption text-left">
-                    <h1>New Releases!</h1>
-                    <p>Saketh's Box Run (Beta)</p>
+                    <h1>Happy Birthday, Saketh!</h1>
+                    <p>Click <a href="birthday.php">here</a> to celebrate with us!</p>
                 </div>
               </div>
             </div>
@@ -115,8 +115,8 @@
               <img src="Images/ezgif.com-gif-maker.gif" class="d-block w-100" alt="...">
               <div class="container">
                 <div class="carousel-caption">
-                    <h1>Saketh's Box Run (Beta)</h1>
-                    <p>A game created for fun and enjoyment.</p> 
+                    <h1>New Releases!</h1>
+                    <p>Saketh's Box Run (Beta)</p> 
                 </div>
               </div>
             </div>
@@ -185,7 +185,7 @@
                 <img src="Images/Hrutvik's Picture.PNG" class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140">
                 <h2>Hrutvik</h2>
                 <p>Hrutvik is a co-founder, the CFO, head of PR and a director of <strong>Zentech</strong> along with Saketh and Ritvik.</p>
-                <!--<p><a class="btn btn-secondary" href="birthday.php" role="button">About Us</a></p>-->
+                <p><a class="btn btn-secondary" href="birthday.php" role="button">Saketh's Birthday</a></p>
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
                 <img src="Images/Ritvik's Picture.HEIC" class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140">
