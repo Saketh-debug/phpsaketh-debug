@@ -111,7 +111,7 @@
                 </div>
               </div>
             </div>-->
-            <div class="carousel-item">
+            <div class="carousel-item active"><!--Remove active here if this is not meant to be first slide-->
               <img src="Images/ezgif.com-gif-maker.gif" class="d-block w-100" alt="...">
               <div class="container">
                 <div class="carousel-caption">
