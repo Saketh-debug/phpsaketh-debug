@@ -103,7 +103,7 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="Images/Ghost\ Run\ Pic.png" class="d-block w-100" alt="...">
+              <img src="Images/Ghost Run Pic.jpg" class="d-block w-100" alt="...">
               <div class="container">
                 <div class="carousel-caption">
                     <h1>New Releases!</h1>
