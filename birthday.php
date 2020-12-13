@@ -81,11 +81,8 @@
           <div class="carousel-item active">
             <img src="Images/About Page Carousel Item 1.jpg" class="d-block w-100" alt="...">
           </div>
-          <!--<div class="carousel-item">
-            <img src="About Page Carousel Item 2.jpg" class="d-block w-100" alt="...">
-          </div>-->
           <div class="carousel-item">
-            <img src="Images/About Page Carousel Item 3.jpg" class="d-block w-100" alt="...">
+            <img src="Images/About Page Carousel Item 2.jpg" class="d-block w-100" alt="...">
           </div>
         </div>
         

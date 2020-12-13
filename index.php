@@ -82,9 +82,9 @@
               <li class="nav-item">
                 <a class="nav-link" href="contacts.php" tabindex="-1" aria-disabled="true">Contact Us</a>
               </li>
-              <!-- <li class="nav-item">
-                <a class="nav-link" href="about">About Us</a>
-              </li> -->
+              <li class="nav-item">
+                <a class="nav-link" href="birthday.php">Birthday Celebrations</a>
+              </li>
               <li class="nav-item">
                 <a class="nav-link" href="dd.php">Art of CSS</a>
               </li>
@@ -185,7 +185,7 @@
                 <img src="Images/Hrutvik's Picture.PNG" class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140">
                 <h2>Hrutvik</h2>
                 <p>Hrutvik is a co-founder, the CFO, head of PR and a director of <strong>Zentech</strong> along with Saketh and Ritvik.</p>
-                <!--<p><a class="btn btn-secondary" href="about.php" role="button">About Us</a></p>-->
+                <!--<p><a class="btn btn-secondary" href="birthday.php" role="button">About Us</a></p>-->
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
                 <img src="Images/Ritvik's Picture.HEIC" class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140">
