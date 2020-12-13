@@ -102,20 +102,21 @@
             <li data-target="#myCarousel" data-slide-to="2"></li>
           </ol>
           <div class="carousel-inner">
-            <!--<div class="carousel-item active">
-              <img src="Images/*Birthday Pic Name here*" class="d-block w-100" alt="...">
-              <div class="container">
-                <div class="carousel-caption text-left">
-                    <h1>Happy Birthday, *Name of person here*!</h1>
-                    <p>Click <a href="birthday.php">here</a> to celebrate with us!</p>
-                </div>
-              </div>
-            </div>-->
-            <div class="carousel-item active"><!--Remove active here if this is not meant to be first slide-->
-              <img src="Images/ezgif.com-gif-maker.gif" class="d-block w-100" alt="...">
+            <div class="carousel-item active">
+              <img src="Images/Ghost\ Run\ Pic.png" class="d-block w-100" alt="...">
               <div class="container">
                 <div class="carousel-caption">
                     <h1>New Releases!</h1>
+                    <p><a href = "Game2.php">Saketh's Ghost Run</a> (Beta)</p> 
+                </div>
+              </div>
+            </div>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="Images/ezgif.com-gif-maker.gif" class="d-block w-100" alt="...">
+              <div class="container">
+                <div class="carousel-caption">
+                    <h1>Play Now!</h1>
                     <p><a href = "Game.php">Saketh's Box Run</a> (Beta)</p> 
                 </div>
               </div>
