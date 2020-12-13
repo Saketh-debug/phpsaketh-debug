@@ -67,7 +67,7 @@
                 <a class="nav-link" href="contacts.php" tabindex="-1" aria-disabled="true">Contact Us </a>
               </li>
               <li class="nav-item active">
-                <a class="nav-link" href="#">About Us</a>
+                <a class="nav-link" href="#">Birthday Celebrations</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="dd.php">Art of CSS</a>
