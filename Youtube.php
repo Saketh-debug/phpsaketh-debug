@@ -124,9 +124,9 @@
         <li class="nav-item">
           <a class="nav-link" href="contacts.php">Contact Us</a>
         </li>
-        <li class="nav-item">
+        <!--<li class="nav-item">
           <a class="nav-link" href="birthday.php">Birthday Celebrations</a>
-        </li>
+        </li>-->
         <li class="nav-item">
           <a class="nav-link" href="dd.php">Art of CSS</a>
         </li>

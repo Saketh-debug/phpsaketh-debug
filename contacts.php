@@ -55,9 +55,9 @@ body{
         <li class="nav-item active">
           <a class="nav-link" href="#">Contact Us <span class="sr-only">(current)</span></a>
         </li>
-        <li class="nav-item">
+        <!--<li class="nav-item">
           <a class="nav-link" href="birthday.php">Birthday Celebrations</a>
-        </li>
+        </li>-->
         <li class="nav-item">
           <a class="nav-link" href="dd.php">Art of CSS</a>
         </li>

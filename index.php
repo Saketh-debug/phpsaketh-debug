@@ -82,9 +82,9 @@
               <li class="nav-item">
                 <a class="nav-link" href="contacts.php" tabindex="-1" aria-disabled="true">Contact Us</a>
               </li>
-              <li class="nav-item">
+              <!--<li class="nav-item">
                 <a class="nav-link" href="birthday.php">Birthday Celebrations</a>
-              </li>
+              </li>-->
               <li class="nav-item">
                 <a class="nav-link" href="dd.php">Art of CSS</a>
               </li>
@@ -102,21 +102,21 @@
             <li data-target="#myCarousel" data-slide-to="2"></li>
           </ol>
           <div class="carousel-inner">
-            <div class="carousel-item active">
-              <img src="Images/Saketh's Birthday Pic.jpg" class="d-block w-100" alt="...">
+            <!--<div class="carousel-item active">
+              <img src="Images/*Birthday Pic Name here*" class="d-block w-100" alt="...">
               <div class="container">
                 <div class="carousel-caption text-left">
-                    <h1>Happy Birthday, Saketh!</h1>
+                    <h1>Happy Birthday, *Name of person here*!</h1>
                     <p>Click <a href="birthday.php">here</a> to celebrate with us!</p>
                 </div>
               </div>
-            </div>
+            </div>-->
             <div class="carousel-item">
               <img src="Images/ezgif.com-gif-maker.gif" class="d-block w-100" alt="...">
               <div class="container">
                 <div class="carousel-caption">
                     <h1>New Releases!</h1>
-                    <p>Saketh's Box Run (Beta)</p> 
+                    <p><a href = "Game.php">Saketh's Box Run</a> (Beta)</p> 
                 </div>
               </div>
             </div>
@@ -185,7 +185,7 @@
                 <img src="Images/Hrutvik's Picture.PNG" class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140">
                 <h2>Hrutvik</h2>
                 <p>Hrutvik is a co-founder, the CFO, head of PR and a director of <strong>Zentech</strong> along with Saketh and Ritvik.</p>
-                <p><a class="btn btn-secondary" href="birthday.php" role="button">Saketh's Birthday</a></p>
+                <!--<p><a class="btn btn-secondary" href="birthday.php" role="button">*Name of person here and specify birthday*</a></p>-->
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
                 <img src="Images/Ritvik's Picture.HEIC" class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140">

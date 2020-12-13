@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title><!--Write title here--></title>
     <style>
         .carousel .carousel-item {
   height: 500px;
@@ -79,11 +79,9 @@
 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="Images/Saketh's Birthday Pic.jpg" class="d-block w-100" alt="...">
+            <img src="Images/" class="d-block w-100" alt="...">
+            <!--Write pic location above-->
           </div>
-          <!--<div class="carousel-item">
-            <img src="Images/About Page Carousel Item 2.jpg" class="d-block w-100" alt="...">
-          </div>-->
         </div>
         
         </a>
@@ -93,23 +91,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h1 class="strong">Saketh's<br>Birthday</h1>
+                    <h1 class="strong"><!--Write name of person here--><br>Birthday</h1>
                     <p class="lead">Today, we celebrate the birthday of one of our founders.</p>
                 </div>
                 <div class="col-md-6">
-                    <p>Saketh is one of the co-founders of Zentech, and its CEO.</p>
                     <p>
-                      Today, the 13th of December, 2020, we celebrate Saketh's 14<sup>th</sup> birthday.
-                      <p style = "font-style: italic;">
-                      I would like to thank Saketh for all that he as contributed and given to our company: 
-                      the creation and editing of the website, and also for his fun and amazing games.
-                      Many many happy returns of the day, and hope you have a good year ahead! Happy birthday, Saketh.
-                      </p>
-                      <p>- Hrutvik, cofounder and CFO of Zentech</p>
-                      <p style = "font-style: italic;">
-                      Happy birthday, bro.
-                      </i>
-                      <p>- Ritvik, cofounder and COO of Zentech</p>
+                    <!--Write content here-->
                     </p>
                 </div>
             </div>
