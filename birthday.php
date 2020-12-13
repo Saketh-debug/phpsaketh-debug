@@ -105,11 +105,11 @@
                       the creation and editing of the website, and also for his fun and amazing games.
                       Many many happy returns of the day, and hope you have a good year ahead! Happy birthday, Saketh.
                       </p>
-                      <p>-Hrutvik</p>
+                      <p>- Hrutvik, cofounder and CFO of Zentech</p>
                       <p style = "font-style: italic;">
                       Happy birthday, bro.
                       </i>
-                      <p>-Ritvik</p>
+                      <p>- Ritvik, cofounder and COO of Zentech</p>
                     </p>
                 </div>
             </div>
