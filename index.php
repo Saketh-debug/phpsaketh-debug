@@ -229,7 +229,7 @@
           <div class="row featurette">
             <div class="col-md-7">
                 <h2 class="featurette-heading"><strong>Our Projects</strong> <span class="text-muted"></span></h2>
-                <a href="projects.html">Projects</a>
+                <p class="lead"><a href="projects.php">Projects</a></p>
                 <p class="lead">Our current projects include making games like Box Run and Ghost Run, our personal assistant Zen, and of course, this website!</p>
             </div>
             <div class="col-md-5">
