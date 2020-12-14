@@ -105,7 +105,7 @@
             <div class="carousel-item active">
               <img src="Images/Ghost Run Pic.jpg" class="d-block w-100" alt="...">
               <div class="container">
-                <div class="carousel-caption">
+                <div class="carousel-caption text-left">
                     <h1>New Releases!</h1>
                     <p><a href = "Game2.php">Saketh's Ghost Run</a> (Beta)</p> 
                 </div>
@@ -124,7 +124,7 @@
               <img src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjE3MzYxfQ&auto=format&fit=crop&w=750&q=80" class="d-block w-100" alt="...">
               <div class="container">
                 <div class="carousel-caption text-right">
-                    <h1> Zentech</h1>
+                    <h1>Zentech</h1>
                     <p>Amazing, revolutionary and unprecedented, as always</p>
                 </div>
               </div>
